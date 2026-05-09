@@ -138,9 +138,9 @@ layers:
   - UP ARROW
   - Ctl+TAB
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Alt+TAB
+  - Alt+LEFT ARROW
+  - Alt+RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - HOME
