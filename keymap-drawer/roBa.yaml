@@ -138,9 +138,9 @@ layers:
   - UP ARROW
   - Ctl+TAB
   - {t: ▽, type: trans}
-  - Alt+TAB
-  - Alt+LEFT ARROW
-  - Alt+RIGHT ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - HOME
@@ -150,9 +150,9 @@ layers:
   - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - TAB
+  - Alt+LEFT
+  - Alt+RIGHT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT SHIFT
@@ -174,7 +174,7 @@ layers:
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT ALT
   - {t: ▽, type: trans}
   MOUSE:
   - {t: ▽, type: trans}
